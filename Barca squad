@@ -1,0 +1,127 @@
+<html>
+   
+   <head>
+
+      <title>Barcelona players</title>
+
+      <link rel="stylesheet" href="Barca.css">
+
+       
+   </head>
+
+    <body>
+            <header id="main-header">
+                    
+                
+          <h1> BARCELONA PLAYERS 2018/2019 SEASON  </h1>  <h2>&nbsp;&nbsp;&nbsp;MES QUE UN CLUB</h2>
+        
+        
+            </header>  
+            
+            
+
+            <main>
+
+                <div id="board">
+
+                   <img id="test"src="ba.jpg">   <img id="testo"src="ph.jpg">    <img id="testu"src="ac.jpg"> <br>
+                              
+                   <br><br>            
+
+                </div>   <br>
+            
+
+                <center> <img src="j.jpg"> </center> <br>
+
+                     <div id="squad">
+
+                        <article>
+
+                                  
+                              
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                       
+                       <img src="1.jpg"> &nbsp;&nbsp;&nbsp;&nbsp;  <img src="2.jpg"> &nbsp;&nbsp;&nbsp;&nbsp;  <img src="3.jpg"> &nbsp;&nbsp;&nbsp;&nbsp;   <img src="4.jpg">
+                
+                        <br>
+                        
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+                        <img src="5.jpg"> &nbsp;&nbsp;&nbsp;&nbsp;  <img src="6.jpg"> &nbsp;&nbsp;&nbsp;&nbsp;  <img src="7.jpg"> &nbsp;&nbsp;&nbsp;&nbsp;   <img src="8.jpg">
+                         
+                         
+                        <br>
+                        
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+                        <img src="9.jpg"> &nbsp;&nbsp;&nbsp;&nbsp;  <img src="10.jpg"> &nbsp;&nbsp;&nbsp;&nbsp;  <img src="11.jpg"> &nbsp;&nbsp;&nbsp;   <img src="12.jpg">
+
+
+                        <br>
+                        
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+                        <img src="13.jpg"> &nbsp;&nbsp;&nbsp;&nbsp;  <img src="14.jpg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="15.jpg"> &nbsp;&nbsp;&nbsp;   <img src="16.jpg">
+
+
+                        <br>
+                        
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+                        <img src="18.jpg"> &nbsp;&nbsp;&nbsp;&nbsp;  <img src="19.jpg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="20.jpg"> &nbsp;&nbsp;&nbsp;   <img src="22.jpg">
+                         
+                        <br>
+                        
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+                       
+                       <img src="23.jpg"> &nbsp;&nbsp;&nbsp;&nbsp;  <img src="24.jpg">
+
+
+                       <br> <br><br><br>
+
+                </article>
+
+                       <center> <img src="staff.jpg"> </center> <br>
+
+                <article>
+
+                       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+                       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            
+                       <img src="val.jpg">
+
+                </article>         
+
+                </div>
+                      
+
+
+            </main>
+
+             
+
+
+
+    </body>
+
+
+
+
+</html>
